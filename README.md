@@ -20,7 +20,8 @@ I have the following goals when working as a Red Teamer:
 ## Outline
 
 Building a team
-* Roles
+* Roles (Operation, Infrastructure, Researcher, Tool Developer)
+* Sourcing talent
 * Interviewing
 * Hiring
 
@@ -34,9 +35,9 @@ Mapping the business
 
 Documentation
 * Rules of engagement
-* Deconflict
-* Introduction
-* How to engage
+* Deconflicts
+* Telling the Red Team story
+* How to engage the Red Team
 * Planning
 * Tickets
 
