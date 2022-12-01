@@ -19,7 +19,7 @@ I have the following goals when working as a Red Teamer:
 
 ## Outline
 
-Building a team
+Team building
 * Roles (Operator, Infrastructure, Researcher, Tool Developer)
 * Sourcing talent
 * Interviewing
@@ -57,5 +57,6 @@ Storytelling
 Data
 * Cost of compromise
 * Number of compromised Assets
+* Dashboards
 
 
