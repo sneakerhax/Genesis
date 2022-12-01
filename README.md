@@ -10,7 +10,7 @@ Progress: Outline
 
 Over the last eight years, I've been on Red Teams for various large software companies. My personal experiences have shaped how I view Red Teaming and will likely shape my writing. I'm not interested in declaring the definitive definition of Red Teaming, nor am I interested in debating the term. I'm solely interested in documenting my strategy to build and operate Red Teams. 
 
-I have the following goals when working as Red Teamer:
+I have the following goals when working as a Red Teamer:
 
 * Discover and remediate issues before all levels of attackers
 * Collect data to discover systemic issues (root cause analysis and remediation)
