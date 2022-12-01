@@ -8,7 +8,7 @@ Progress: Outline
 
 ## Preface
 
-Over the last eight years, I've been on Red Teams for various large software companies. My personal experiences have shaped how I view Red Teaming and will likely shape my writing. I'm not interested in declaring the definitive definition of Red Teaming, nor am I interested in debating the term. I'm solely interested in documenting my strategy to build and operate Red Teams. 
+Over the last eight years, I've been a member of and/or a lead  on Red Teams for various large software companies. My personal experiences have shaped how I view Red Teaming and will likely shape my writing. I'm not interested in declaring the definitive definition of Red Teaming, nor am I interested in debating the term. I'm solely interested in documenting my strategy to build and operate Red Teams. Additionally, this repo is not an operational guide on how to Red Team. That guide would likely need to be updated immediately after being written. I recommend using the publicly available resources in the community to learn the how-to, as these were the same resources I used to become employed as a Red Teamer.
 
 I have the following goals when working as a Red Teamer:
 
