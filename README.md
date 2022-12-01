@@ -2,7 +2,11 @@
 
 Strategy for building a Red Team
 
-# Outline
+## Status
+
+Progress: Outline
+
+## Outline
 
 Building a team
 * Roles
