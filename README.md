@@ -24,6 +24,7 @@ Team building
 * Sourcing talent
 * Interviewing
 * Hiring
+* Interns
 
 Mapping the business
 * Business units
@@ -35,11 +36,17 @@ Mapping the business
 
 Documentation
 * Rules of engagement
-* Deconflicts
-* Telling the Red Team story
+* Strategy Guides
+* Operational Guides
+
+Communication
 * How to engage the Red Team
-* Planning
-* Tickets
+* Deconflicting Red Team Activity
+* Strategy vs Operations
+
+Planning
+* Roadmaps
+* Initiatives
 
 Testing
 * Shared Recon
@@ -48,15 +55,10 @@ Testing
 * Likelihood
 * Systemic issues
 
-Storytelling 
-* Readouts
-* Attack maps
-* Reports?
-* Impact on the business
-
-Data
-* Cost of compromise
-* Number of compromised Assets
+Reporting
+* Tickets
+* Attack Maps
+* Reports
 * Dashboards
-
-
+* Readouts
+* Data
