@@ -49,10 +49,12 @@ Planning
 * Roadmaps
 * Initiatives
 
-Research
-* Exploits
+Team capabilites
+* Research
+* Exploits development
 * Tool development
-* Team capabilties
+* Automation
+* Command and control
 
 Testing
 * Shared Recon
