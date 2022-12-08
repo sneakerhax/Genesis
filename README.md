@@ -26,14 +26,6 @@ Team building
 * Hiring
 * Interns
 
-Mapping the business
-* Business units
-* Deployments
-* Public code
-* Private code
-* Packages
-* Public websites
-
 Documentation
 * Rules of engagement
 * TTP (Tactics, Techniques, and Procedures)
@@ -55,6 +47,14 @@ Team capabilites
 * Tool development
 * Automation
 * Command and control
+
+Mapping the business
+* Business units
+* Deployments
+* Public code
+* Private code
+* Packages
+* Public websites
 
 Testing
 * Shared Recon
