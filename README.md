@@ -36,6 +36,7 @@ Mapping the business
 
 Documentation
 * Rules of engagement
+* TTP (Tactics, Techniques, and Procedures)
 * Strategy Guides
 * Operational Guides
 
@@ -47,6 +48,11 @@ Communication
 Planning
 * Roadmaps
 * Initiatives
+
+Research
+* Exploits
+* Tool development
+* Team capabilties
 
 Testing
 * Shared Recon
