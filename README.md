@@ -14,7 +14,7 @@ I have the following goals when working as a Red Teamer:
 
 * Discover and remediate issues before all levels of attackers
 * Collect data to discover systemic issues (root cause analysis and remediation)
-* Collaborate with Blue Teams, SOCs (Security Operation Centers), and Incident Responders so they are better able to disrupt and stop an real world attacker from reaching their goals
+* Collaborate with Blue Teams, SOCs (Security Operation Centers), and Incident Responders so they are better able to disrupt and stop real world attacker from reaching their goals
 * Tell Red Team campaign stories to executives that will inspire them to implement company-wide change
 
 ## Outline
